@@ -1,2 +1,3 @@
 # practice-git-checkoff
-# this is partner 1
+# this is partner
+this is written in a new branch
